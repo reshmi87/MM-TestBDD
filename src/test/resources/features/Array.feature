@@ -209,4 +209,3 @@ Feature: Auto-Generated Feature File
     Given The user sign in to dsAlgo Portal
     When "Verify that user receives error on submitting valid python code for ""Square of a Sorted Arrays"" question"
     Then The user is on the practice question editor
-
