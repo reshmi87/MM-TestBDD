@@ -413,4 +413,9 @@ Then Correct output is displayed in the console.
 Scenario: Verify that the user is able to navigate back to the Implementation Of BST Page from the Try Editor page and move back to Trees page	
 Given User is in Try Editor page	
 When User navigates back to the Implementation Of BST page and then select on Trees from the drop down at the top	
+<<<<<<< HEAD
 Then User could move back to the Implementation Of BST page and then to the Tree page.
+>>>>>>> main
+=======
+Then User could move back to the Implementation Of BST page and then to the Tree page.
+>>>>>>> main
