@@ -1,7 +1,10 @@
 package StepDefinition;
 
-public class Array {
+public class DataStructure {
 	public static void main(String[] args) {
-	System.out.println("Addition is ");
+		System.out.print("Rinu");
 	}
+	
+	
+
 }
