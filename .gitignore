@@ -1,2 +1,6 @@
+echo "target/" >> .gitignore
+git add .gitignore
+git commit -m "Updated .gitignore to ignore target/"
+git push origin Ayusha
 target/
 target/
