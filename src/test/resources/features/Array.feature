@@ -10,11 +10,6 @@ Feature: Auto-Generated Feature File
     When "Verify that user is able to navigate to ""Array"" data structure page from the drop down menu"
     Then The user is in the Home page after Sign in
 
-  Scenario: The user select Array item from the drop down menu"
-    Given "The user should able to view ""Array"" Page"
-    When 
-    Then 
-
   Scenario: Array
     Given The user is sign into dsAlgo portal
     When "Verify that user is able to navigate to ""Arrays in Python"" page"
@@ -214,4 +209,3 @@ Feature: Auto-Generated Feature File
     Given The user sign in to dsAlgo Portal
     When "Verify that user receives error on submitting valid python code for ""Square of a Sorted Arrays"" question"
     Then The user is on the practice question editor
-
